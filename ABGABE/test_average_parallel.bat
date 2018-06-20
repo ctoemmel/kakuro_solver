@@ -1,0 +1,1 @@
+FOR %%f IN (./average/*.kak) DO start cmd /C java -jar pgs.jar ./average/%%f

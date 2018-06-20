@@ -1,0 +1,1 @@
+FOR %%f IN (./hard/*.kak) DO java -jar pgs.jar ./hard/%%f

@@ -1,0 +1,1 @@
+FOR %%f IN (./easy/*.kak) DO start cmd /k java -jar pgs.jar ./easy/%%f

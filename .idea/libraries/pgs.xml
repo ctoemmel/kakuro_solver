@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pgs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ABGABE/pgs.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
